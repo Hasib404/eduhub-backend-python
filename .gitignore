@@ -1,8 +1,9 @@
-*.idea/
+.idea
 *.pyc
-__pycache
+__pycache__
 .DS_Store
 .env.dev
 .env.prod
 .env.prod.db
 /services/web/env/
+.vscode/
